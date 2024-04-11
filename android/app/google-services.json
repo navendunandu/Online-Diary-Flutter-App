@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008713323944",
+    "project_id": "online-dairy-5bf8e",
+    "storage_bucket": "online-dairy-5bf8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008713323944:android:cd4fa264cb2c6b8edf799d",
+        "android_client_info": {
+          "package_name": "com.example.online_dairy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyEUkLzRp_tSdQpfY9tOneXXVq1vmxgQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
