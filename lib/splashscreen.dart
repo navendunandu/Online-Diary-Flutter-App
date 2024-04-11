@@ -17,7 +17,7 @@ class _SplashScreenState extends State<splashscreen> {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: Scaffold(
-        body: Center(child:Text('ONLINE DAIRY',style:TextStyle(fontSize:40,fontStyle:FontStyle.normal,color:Color.fromARGB(255, 1, 11, 12),fontWeight: FontWeight.w900),)) ,
+        body: Center(child:Text('DAIRY TOUCH',style:TextStyle(fontSize:40,fontStyle:FontStyle.normal,color:Color.fromARGB(255, 1, 11, 12),fontWeight: FontWeight.w900),)) ,
         ),
       );
   }

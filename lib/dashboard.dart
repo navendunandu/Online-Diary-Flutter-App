@@ -50,7 +50,7 @@ class _DashboardState extends State<Dashboard> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Online Dairy'),
+        title: Text('Dairy Touch'),
         actions: [
           IconButton(
             onPressed: () {

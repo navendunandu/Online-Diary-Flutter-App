@@ -55,7 +55,7 @@ class _MyProfileState extends State<MyProfile> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('SPECIAL SCHOLAR'),
+        title: const Text('Dairy Touch'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
